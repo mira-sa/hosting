@@ -64,12 +64,12 @@ li:first-letter {
   top: -34px;
 }
 
-.weather-temperature .class {
+.weather-temperature .active {
   color: rgb(33, 33, 33);
   cursor: default;
 }
 
-.weather-temperature .class:hover {
+.weather-temperature .active:hover {
   text-decoration: none;
 }
 
